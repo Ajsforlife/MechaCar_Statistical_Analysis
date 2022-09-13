@@ -43,3 +43,7 @@ In Lot 3 T-test the null hypothesis can be rejected because the P-value is below
 
 ## Study Design: MechaCar vs Competition
 
+The study that I would create to quantify how the MechaCar performs against the competition would be as follows: 
+The metrics that I would test are the cost of the vehicle, MPG for highway and for city, and the performance rating of the vehicle. My hypothesis would be that the MechaCar will provide more MPG and performance rating at a much higher cost compared to that of the competition. The Null hypothesis would be that there is no difference between the competition and the MechaCar. And The Alternative Hyptohesis would be similar to the hypothesis stating that the MechaCar will provide higher MPG and performance then that of the competition. The statistical test I would use is the One sample or two sample T-test to easily get the P-value of the variables and easily reject or accept the Null Hypothesis. The data needed to perform this test will be numerical values of the cost of the vehicles numericla MPG for both highway driving and city driving, and a numerical rating of performance of the vehicle. With all this data this test shoul be relatively easy to perform and you should be able to make very good judgement of the data baserd on simple T-tests.
+
+
